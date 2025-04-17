@@ -1,0 +1,1 @@
+vless://628dd99d-a368-4a6d-9f8f-e4dab3cf059d@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=sword.gamepassion.shop&fp=chrome&type=ws&sni=sword.gamepassion.shop#Soha
