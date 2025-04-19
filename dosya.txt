@@ -1,1 +1,1 @@
-vless://99e41e6d-9379-4c6e-a41e-44313a8f4073@212.67.9.129:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=sword.gamepassion.shop&fp=chrome&type=ws&sni=sword.gamepassion.shop#%F0%9F%87%B3%F0%9F%87%B1Nederland
+vless://1b4c0bcc-e30f-4626-906e-8dd63f7fff38@212.67.9.129:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=sword.gamepassion.shop&fp=chrome&type=ws&sni=sword.gamepassion.shop#🇳🇱Nederland
